@@ -1,0 +1,18 @@
+{
+ "model": "supertonic-3",
+ "app": "ravenvault",
+ "presets": [
+  {
+   "id": "ravi",
+   "name": {
+    "ko": "라비"
+   },
+   "voice": "F1",
+   "synthSpeed": 0.908,
+   "playbackRate": 1.1553,
+   "how": "speed 0.908 로 합성한 뒤 샘플레이트를 ×1.1553(+2.5음) 로 선언해 재생한다. 길이는 그대로, 음이 올라간다. 별도 DSP 없음.",
+   "sample": "안녕하세요, 저는 라비예요. 오늘 레이븐볼트에서 무엇을 도와 드릴까요?",
+   "ai_voice_label": "AI 음성"
+  }
+ ]
+}

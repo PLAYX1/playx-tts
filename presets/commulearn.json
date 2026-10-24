@@ -1,0 +1,293 @@
+{
+ "model": "supertonic-3",
+ "app": "commulearn",
+ "note": "목소리 파일은 모델 묶음(supertonic-3)의 voice_styles 를 그대로 쓰고, 속도·쉼만 캐릭터마다 다르다. 캐릭터 설명·시험 문장은 앱 쪽에 있다.",
+ "characters": [
+  {
+   "id": "AvatarSample_A",
+   "name": {
+    "ko": "서윤",
+    "en": "Seoyun",
+    "ja": "ソユン"
+   },
+   "voice": "F2",
+   "speed": 0.98,
+   "pause": 0.38
+  },
+  {
+   "id": "AvatarSample_B",
+   "name": {
+    "ko": "루나",
+    "en": "Luna",
+    "ja": "ルナ"
+   },
+   "voice": "F3",
+   "speed": 1.08,
+   "pause": 0.25
+  },
+  {
+   "id": "AvatarSample_C",
+   "name": {
+    "ko": "도현",
+    "en": "Dohyun",
+    "ja": "ドヒョン"
+   },
+   "voice": "M2",
+   "speed": 0.97,
+   "pause": 0.4
+  },
+  {
+   "id": "AvatarSample_D",
+   "name": {
+    "ko": "아린",
+    "en": "Arin",
+    "ja": "アリン"
+   },
+   "voice": "F4",
+   "speed": 1.0,
+   "pause": 0.35
+  },
+  {
+   "id": "AvatarSample_E",
+   "name": {
+    "ko": "하늘",
+    "en": "Haneul",
+    "ja": "ハヌル"
+   },
+   "voice": "F1",
+   "speed": 1.12,
+   "pause": 0.22
+  },
+  {
+   "id": "AvatarSample_F",
+   "name": {
+    "ko": "미소",
+    "en": "Miso",
+    "ja": "ミソ"
+   },
+   "voice": "F3",
+   "speed": 1.1,
+   "pause": 0.24
+  },
+  {
+   "id": "AvatarSample_G",
+   "name": {
+    "ko": "하루",
+    "en": "Haru",
+    "ja": "ハル"
+   },
+   "voice": "M5",
+   "speed": 1.1,
+   "pause": 0.24
+  },
+  {
+   "id": "AvatarSample_H",
+   "name": {
+    "ko": "연",
+    "en": "Yeon",
+    "ja": "ヨン"
+   },
+   "voice": "F2",
+   "speed": 0.95,
+   "pause": 0.42
+  },
+  {
+   "id": "AvatarSample_I",
+   "name": {
+    "ko": "소연",
+    "en": "Soyeon",
+    "ja": "ソヨン"
+   },
+   "voice": "F5",
+   "speed": 1.02,
+   "pause": 0.3
+  },
+  {
+   "id": "AvatarSample_J",
+   "name": {
+    "ko": "시온",
+    "en": "Sion",
+    "ja": "シオン"
+   },
+   "voice": "F4",
+   "speed": 0.93,
+   "pause": 0.45
+  },
+  {
+   "id": "AvatarSample_K",
+   "name": {
+    "ko": "리아",
+    "en": "Ria",
+    "ja": "リア"
+   },
+   "voice": "F3",
+   "speed": 1.12,
+   "pause": 0.2
+  },
+  {
+   "id": "AvatarSample_L",
+   "name": {
+    "ko": "라온",
+    "en": "Raon",
+    "ja": "ラオン"
+   },
+   "voice": "M1",
+   "speed": 1.12,
+   "pause": 0.2
+  },
+  {
+   "id": "AvatarSample_M",
+   "name": {
+    "ko": "은하",
+    "en": "Eunha",
+    "ja": "ウナ"
+   },
+   "voice": "F2",
+   "speed": 1.0,
+   "pause": 0.33
+  },
+  {
+   "id": "AvatarSample_N",
+   "name": {
+    "ko": "하람",
+    "en": "Haram",
+    "ja": "ハラム"
+   },
+   "voice": "M5",
+   "speed": 1.0,
+   "pause": 0.36
+  },
+  {
+   "id": "AvatarSample_O",
+   "name": {
+    "ko": "미나",
+    "en": "Mina",
+    "ja": "ミナ"
+   },
+   "voice": "F1",
+   "speed": 1.04,
+   "pause": 0.3
+  },
+  {
+   "id": "AvatarSample_P",
+   "name": {
+    "ko": "서준",
+    "en": "Seojun",
+    "ja": "ソジュン"
+   },
+   "voice": "M3",
+   "speed": 0.95,
+   "pause": 0.38
+  },
+  {
+   "id": "AvatarSample_Q",
+   "name": {
+    "ko": "이슬",
+    "en": "Iseul",
+    "ja": "イスル"
+   },
+   "voice": "F5",
+   "speed": 0.98,
+   "pause": 0.38
+  },
+  {
+   "id": "AvatarSample_R",
+   "name": {
+    "ko": "레온",
+    "en": "Leon",
+    "ja": "レオン"
+   },
+   "voice": "M3",
+   "speed": 1.0,
+   "pause": 0.3
+  },
+  {
+   "id": "AvatarSample_S",
+   "name": {
+    "ko": "현우",
+    "en": "Hyunwoo",
+    "ja": "ヒョヌ"
+   },
+   "voice": "M2",
+   "speed": 0.95,
+   "pause": 0.4
+  },
+  {
+   "id": "AvatarSample_T",
+   "name": {
+    "ko": "강",
+    "en": "Kang",
+    "ja": "カン"
+   },
+   "voice": "M1",
+   "speed": 1.1,
+   "pause": 0.22
+  },
+  {
+   "id": "AvatarSample_U",
+   "name": {
+    "ko": "로제",
+    "en": "Rosé",
+    "ja": "ロゼ"
+   },
+   "voice": "F3",
+   "speed": 1.08,
+   "pause": 0.25
+  },
+  {
+   "id": "AvatarSample_V",
+   "name": {
+    "ko": "카인",
+    "en": "Kain",
+    "ja": "カイン"
+   },
+   "voice": "M4",
+   "speed": 0.93,
+   "pause": 0.42
+  },
+  {
+   "id": "AvatarSample_W",
+   "name": {
+    "ko": "유키",
+    "en": "Yuki",
+    "ja": "ユキ"
+   },
+   "voice": "F5",
+   "speed": 1.05,
+   "pause": 0.28
+  },
+  {
+   "id": "AvatarSample_X",
+   "name": {
+    "ko": "쇼",
+    "en": "Sho",
+    "ja": "ショウ"
+   },
+   "voice": "M2",
+   "speed": 0.94,
+   "pause": 0.42
+  },
+  {
+   "id": "AvatarSample_Y",
+   "name": {
+    "ko": "지우",
+    "en": "Jiu",
+    "ja": "ジウ"
+   },
+   "voice": "F4",
+   "speed": 1.04,
+   "pause": 0.28
+  },
+  {
+   "id": "AvatarSample_Z",
+   "name": {
+    "ko": "태오",
+    "en": "Taeo",
+    "ja": "テオ"
+   },
+   "voice": "M1",
+   "speed": 1.08,
+   "pause": 0.24
+  }
+ ]
+}
